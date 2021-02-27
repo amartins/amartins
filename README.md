@@ -10,7 +10,7 @@
 
 ## 🖖Connect with me:
 [<img align="left" alt="martins.eng.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="xsandro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="xs4ndro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="xsandro" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -23,6 +23,6 @@
 <br />
 
 [website]: https://www.martins.eng.br
-[twitter]: https://twitter.com/xsandro
+[twitter]: https://twitter.com/xs4ndro
 [linkedin]: https://linkedin.com/in/xsandro
 [pronounce]: https://forvo.com/word/alessandro/
