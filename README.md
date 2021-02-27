@@ -1,4 +1,4 @@
-### Hi, welcome to my GitHub profile, I'm [Alessandro][pronounce]!
+### Hi, Welcome to my GitHub profile, I'm [Alessandro][pronounce]!
 
 ## 📚 About me
 
